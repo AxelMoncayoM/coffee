@@ -32,7 +32,5 @@ To use, simply install dependencies and run the script with:
 
 [![Captura-de-pantalla-7.png](https://i.postimg.cc/sxB1hHCr/Captura-de-pantalla-7.png)](https://postimg.cc/N2cgh40J)
 
-[![Captura-de-pantalla-8.png](https://i.postimg.cc/9F8JVrJw/Captura-de-pantalla-8.png)](https://postimg.cc/MvBymKkz)
-
-[![Captura-de-pantalla-10.png](https://i.postimg.cc/1Xqg73NM/Captura-de-pantalla-10.png)](https://postimg.cc/64B5ywcG)
+[![Captura-de-pantalla-10.png](https://i.postimg.cc/90SqpNF3/Captura-de-pantalla-10.png)](https://postimg.cc/8fR5k46w)
 
